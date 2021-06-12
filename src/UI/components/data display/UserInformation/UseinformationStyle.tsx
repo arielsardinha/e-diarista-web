@@ -1,5 +1,4 @@
 import { styled, Avatar, Rating } from "@material-ui/core";
-import theme from "UI/themes/theme";
 export const UserInformationContainer = styled("div")`
   display: grid;
   grid-template-columns: 60px 1fr;
