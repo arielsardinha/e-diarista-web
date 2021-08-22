@@ -1,22 +1,4 @@
-sistema web feita com next.js e typeScript consumindo api feita em laravel
-
-dependencias: 
-npm i @material-ui/core@next @emotion/react @emotion/styled axios react-input-mask
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+-Sistema feito para que pessoas possam pesquisar diaristas que  estão disponíveis para trabalhar. a pesquisa é feita baseada no CEP do solicitante. 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
